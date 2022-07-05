@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    text-transform: capitalize;
+}
+section{
+    margin-bottom: 70px;
+   
+}
+.home-page{
+    display: flex;
+    margin-top: 100px;
+    padding: 5%;
+}
+.skip-color{
+    color: tomato;
+}
+#about-me-head{
+    font-size: 30px;
+    font-weight: bolder;
+}
+p{
+    color:#A3A3A3 ;
+}
+button{
+    padding: 10px 15px;
+    background: linear-gradient(orange, tomato);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width h1{
+    font-size: 50px;
+    text-transform: capitalize;
+}
+.half-width{
+    width: 50%;
+}
+.about-me-section{
+    background-image: url(image/shapes/Frame\ 57.jpg);
+    display: flex;
+    align-items: center;
+}
+
+#contact-btn{
+    margin: 10px 0px 10px 0px; 
+}
+ 
+.my-recipie-head {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.my-recipie-head h3{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    
+     
+}
+.my-recipie-head p{
+    text-align: justify;
+}
+.card{
+   
+    display: flex;
+   
+}
+.card-wrapper{
+    width: 40%;
+    margin: 2%;
+    padding: 5%;
+  box-shadow:2px 2px 18px 18px rgb(230 228 227);
+    border-radius: 10px;
+   
+}
+.card-img img{
+    width: 100%;
+    
+}
+.card-title h4{
+    font-size: 25px;
+   font-weight: bolder;
+   text-align: center;
+    
+}
+.card-dex{
+    text-align: justify;
+}
+
+.price-section{
+    box-shadow:10px 1px 17px 8px #321f1f40;
+    display: flex;
+text-align: center;
+margin: 20px;
+height: 200px;
+align-items: center;
+border-radius: 10px;
+}
+.tk{
+    width: 30%;
+    font-weight: bolder;
+}
+
+footer{
+    background-color: black;
+
+}
+h5{
+    text-align: center;
+    padding-top: 2%;
+
+}
+.eat-color{
+    color: orange;
+}
+.fresh-color{
+    color: #5B5B5B;
+     
+}
+.footer-dex{
+    text-align: center;
+}
